@@ -16,6 +16,9 @@ STEP 7: Stop.
 
 ### Program:
 ```
+#Name:Gowtham I K
+#Reg no:212222090008
+
 def simpleInterest(p,t,r):
       si = p*t*r/100
        return si
@@ -53,6 +56,9 @@ STEP 7: Stop.
 
 ### Program:
 ```
+#Name:Gowtham I K
+#Reg no:212222090008
+
 def odd(a):
          l=[]
           for i in range(a):
@@ -90,12 +96,17 @@ STEP 8: Stop.
 
 
 ### Program:
-```if  name	== '   main    ':
+```
+#Name:Gowtham I K
+#Reg no:212222090008
+
+if  name	== '   main    ':
           n = int(input())
           arr = map(int, input().split())
           arr2 = list(set(arr))
           arr2.sort()
 print(arr2[-2])
+```
 
 ### Output:
  
@@ -125,6 +136,9 @@ STEP 8 : Stop.
 
 ### Program:
 ```
+#Name:Gowtham I K
+#Reg no:212222090008
+
 cube = lambda x: x**2 if x%2==0 else x**3
 def fun(f,l):
      l1=[]
